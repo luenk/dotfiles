@@ -12,7 +12,7 @@ set hidden
 set signcolumn=yes:2
 set relativenumber
 set number
-set termguicolors
+set notermguicolors
 set undofile
 set undodir=~/.config/nvim/undodir
 set spell
